@@ -8,3 +8,7 @@
 ### 4. Create a Redux store with Reducers, Initial State and enhancers (For browsers visibility, you can use a browser provided enhancer called __REDUX_DEVTOOLS_EXTENSION__)
 ### 5. Create a subscriber to the store to handle change events of the state
 ### 6. Create an UI event handler, which responds to an UI action and write the logic to prepare the payload which includes action types and the data, and dispatch to the Store. And the store in turn executes all available reducers to produce a state based on the current state, which enables subscribes to be notified when the state is changed (new).
+
+#### Steps to prepare for Redux Project ...
+#### npm install redux http-server
+#### http-server
